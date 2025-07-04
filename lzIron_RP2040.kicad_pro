@@ -530,7 +530,7 @@
       "plot": "gerber/",
       "pos_files": "BOM & CPL/",
       "specctra_dsn": "",
-      "step": "keycultTKL.step",
+      "step": "lzIron.step",
       "svg": "C:/Users/user/Desktop/",
       "vrml": ""
     },
