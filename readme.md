@@ -19,7 +19,7 @@ KT-0805W LED를 구입해서 LED 자리에 납땜해주시면 됩니다. 타오�
 
 추가 필요 부품 : KT-0805W LED
 
-작동 확인 여부 : X
+작동 확인 여부 : 아직 확인되지 않음
 
 
 This is a replica PCB of the LZ Iron.
@@ -38,3 +38,6 @@ But I did check everything carefully.
 All components, including the LEDs and USB connector, are placed on the front side of the PCB.
 Other SMD parts are also on the front.
 There shouldn’t be any interference, but if you use case foam, be careful — there’s a chance of shorting.
+
+Extra parts needed: KT-0805W LEDs
+Tested and working: Not verified yet
