@@ -17,6 +17,11 @@ KT-0805W LED를 구입해서 LED 자리에 납땜해주시면 됩니다. 타오�
 이 기판은 LED와 USB가 전부 기판 전면부에 있기 때문에, 그 외의 SMD 부품들도 전부 전면메 배치했습니다.
 간섭은 획인되지 않으나, 폼을 끼우고 빌드할 시 쇼트가 발생할 수 있습니다. 조심해주세요!
 
+추가 필요 부품 : KT-0805W LED
+
+작동 확인 여부 : X
+
+
 This is a replica PCB of the LZ Iron.
 
 Indicator LEDs (other than RGB) are not included.
